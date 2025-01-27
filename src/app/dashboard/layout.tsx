@@ -8,6 +8,7 @@ const links = [
   { name: "alert", href: "alert" },
   { name: "button", href: "button" },
   { name: "alertDialog", href: "alertDialog" },
+  { name: "dialog", href: "dialog" },
 ];
 
 export default function DashboardLayout({
